@@ -31,7 +31,6 @@
         font-family: Georgia;
         font size: 12px;
     }
-    
     .btn {
       padding: 10px 20px;
       background: #ffcc00;
@@ -50,15 +49,12 @@
     <h1>Group Presentation</h1>
     <h2>Topic:</h2>
     <p><strong>Digital Preservation: The Vanishing Programmers (1980s)</strong></p>
-    
     <h2>Presented by:</h2>
     <p>
         Emmanuel Geln Espiritu<br>Datu Zaid Rango<br>Eira<br>Esmael Randa<br>Clyde Agito<br>Dennis Vince Samonte<br>
     </p>
     <h2>BSIT-1.6</h2><br>
-    
     <h2>Group: 2</h2><br>
-    
     <a href="Project.html" class="btn">View Project</a>
   </div>
 </body>
